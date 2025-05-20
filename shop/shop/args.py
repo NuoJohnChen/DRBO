@@ -6,7 +6,7 @@ from transformers import SchedulerType
 root_path = os.path.abspath(os.path.dirname('../'))
 
 model_name_or_path = "/home/models/Qwen2.5-1.5B-Instruct"
-# model_name_or_path = "/ssd1/models/Llama-3.2-1B-Instruct"
+# model_name_or_path = "/home/models/Llama-3.2-1B-Instruct"
 # model_name_or_path = "/home/models/Meta-Llama-3-8B-Instruct"
 train_file = "/home/moon_shop/data/ECInstruct.json"
 mmlu_data_dir = "/home/moon_shop/mmlu_data"
