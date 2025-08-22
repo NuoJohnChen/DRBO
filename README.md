@@ -32,3 +32,13 @@ To reproduce ALaRM baseline, please run
 cd alce
 python main_alarm.py
 ```
+
+## Citation
+```
+@inproceeding{chen2025drbo,
+  title={Mitigating Short Board Effect via Dynamic Reward Balancing in Multi-reward LLM Optimization},
+  author={Nuo Chen and Yufei Gao and Yongnan Jin and Yan Hu and Anningzhe Gao and Lingyong Yan and Benyou Wang},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2025},
+  year={2025}
+}
+```
